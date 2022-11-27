@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <br/>
- <img src="https://img.shields.io/badge/Swift-#F05138?style=for-the-badge&logo=Swift&logoColor=white">
+ <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 
 </p>
 
