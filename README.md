@@ -1,5 +1,4 @@
-#### Major
-Mathmatics
+#### 數學科
 
 <br/>
 
