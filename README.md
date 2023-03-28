@@ -1,4 +1,4 @@
-#### 數學科
+#### Department of Mathematics
 
 <br/>
 
